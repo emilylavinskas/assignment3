@@ -269,6 +269,7 @@ figcaption {
     left: 27.5%;
     top: 20.1rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .n3 {
@@ -277,6 +278,7 @@ figcaption {
     left: 62%;
     top: 20.1rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .b1 {
@@ -289,6 +291,7 @@ figcaption {
     left: 27.5%;
     top: 34.9rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .b3 {
@@ -297,6 +300,7 @@ figcaption {
     left: 62%;
     top: 34.9rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .c1 {
@@ -306,17 +310,19 @@ figcaption {
 .c2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 44.9rem;
+    left: 27.5%;
+    top: 49.6rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .c3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 44.9rem;
+    left: 62%;
+    top: 49.6rem;
     margin: 2rem;
+    display: inline-block;
 }
 
 .r1 {
@@ -326,15 +332,19 @@ figcaption {
 .r2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 57.4rem;
+    left: 27.5%;
+    top: 64.4rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .r3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 57.4rem;
+    left: 62%;
+    top: 64.4rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .e1 {
@@ -344,15 +354,19 @@ figcaption {
 .e2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 69.9rem;
+    left: 27.5%;
+    top: 79.1rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .e3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 69.9rem;
+    left: 62%;
+    top: 79.1rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .br1 {
@@ -362,13 +376,17 @@ figcaption {
 .br2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 82.4rem;
+    left: 27.5%;
+    top: 93.9rem;
+    margin: 2rem;
+    display: inline-block;
 }
 
 .br3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 82.4rem;
+    left: 62%;
+    top: 93.9rem;
+    margin: 2rem;
+    display: inline-block;
 }
