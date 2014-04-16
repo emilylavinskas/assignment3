@@ -96,7 +96,8 @@ p {
 }
 
 hr {
-    margin: 10% 0;
+    margin: 5% 0;
+    
 }
 
 figure {
@@ -118,8 +119,7 @@ footer {
 }
 
 .store {
-    margin-top: 16%;
-    margin-left: 10%;
+    margin: 10% 10% 0;
     padding: 0;
     width: 80%;
 }
