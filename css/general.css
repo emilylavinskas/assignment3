@@ -28,7 +28,7 @@ img {
 
 p {
     font-family: 'Ruluko', helvetica, arial, sans-serif;
-    line-height: 1.25rem;
+    line-height: 1.5rem;
 } 
 
 h1 {
@@ -118,7 +118,7 @@ footer {
 }
 
 .store {
-    margin: 10% 10% 0;
+    margin: 20% 10% 0;
     padding: 0;
     width: 80%;
 }
@@ -152,7 +152,7 @@ figcaption {
 .blacke {
     width: 40%;
     border-radius: 5rem;
-    margin: 0;
+    margin: 0 0 4rem;
     padding: 1rem 5%;
 }
 
@@ -169,37 +169,40 @@ figcaption {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
+    text-decoration: underline;
 }
 
 .blackep {
     position: absolute;
     left: 35%;
-    top: 50.5rem;
+    top: 49.5rem;
     margin: 5% 0;
 }
 
 .blackename{
     position: absolute;
     left: 35%;
-    top: 50.2rem;
+    top: 49.2rem;
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
+    text-decoration: underline;
 }
 
 .learnerp {
     position: absolute;
     left: 35%;
-    top: 66.9rem;
+    top: 66.3rem;
 }
 
 .learnername{
     position: absolute;
     left: 35%;
-    top: 65.5rem;
+    top: 64.8rem;
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
+    text-decoration: underline;
 }
 
 .products1 {
