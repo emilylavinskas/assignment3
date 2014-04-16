@@ -210,6 +210,7 @@ figcaption {
     font-weight: bold;
     color: #b07792; 
     background: #f9ddde;
+    padding: 2rem;
 }
 
 .products2 {
@@ -218,6 +219,7 @@ figcaption {
     color: #b07792; 
     background: #f9ddde;
     margin: 2rem 0 0;
+    padding: 2rem;
 }
 
 .products3 {
@@ -226,6 +228,7 @@ figcaption {
     color: #b07792;
     background: #f9ddde;
     margin: 2rem 0 0;
+    padding: 2rem;
 }
 
 .products4 {
@@ -234,6 +237,7 @@ figcaption {
     color: #b07792;
     background: #f9ddde;
     margin: 2rem 0 0;
+    padding: 2rem;
 }
 
 .products5 {
@@ -242,6 +246,7 @@ figcaption {
     color: #b07792; 
     background: #f9ddde;
     margin: 2rem 0 0;
+    padding: 2rem;
 }
 
 .products6 {
@@ -250,25 +255,28 @@ figcaption {
     color: #b07792;
     background: #f9ddde;
     margin: 2rem 0 0;
+    padding: 2rem;
 }
 
 .n1 {
     width: 30%;
-    
+    margin: 0;
 }
 
 .n2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 19.9rem;
+    left: 27.5%;
+    top: 20.1rem;
+    margin: 2rem;
 }
 
 .n3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 19.9rem;
+    left: 62%;
+    top: 20.1rem;
+    margin: 2rem;
 }
 
 .b1 {
@@ -278,15 +286,17 @@ figcaption {
 .b2 {
     width: 30%;
     position: absolute;
-    left: 35%;
-    top: 32.4rem;
+    left: 27.5%;
+    top: 34.9rem;
+    margin: 2rem;
 }
 
 .b3 {
     width: 30%;
     position: absolute;
-    left: 70%;
-    top: 32.4rem;
+    left: 62%;
+    top: 34.9rem;
+    margin: 2rem;
 }
 
 .c1 {
@@ -298,6 +308,7 @@ figcaption {
     position: absolute;
     left: 35%;
     top: 44.9rem;
+    margin: 2rem;
 }
 
 .c3 {
@@ -305,6 +316,7 @@ figcaption {
     position: absolute;
     left: 70%;
     top: 44.9rem;
+    margin: 2rem;
 }
 
 .r1 {
