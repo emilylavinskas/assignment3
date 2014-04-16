@@ -96,7 +96,7 @@ p {
 }
 
 hr {
-    margin: 5%; 
+    margin: 10% 0; 
 }
 
 figure {
@@ -133,7 +133,7 @@ figcaption {
 }
 
 .braceletheader {
-    padding: 5rem, 0%;
+    margin: 0 0 10%;
 }
     
 .anderson {
@@ -160,13 +160,13 @@ figcaption {
 .andersonp {
     position: absolute;
     left: 35%;
-    top: 35rem;
+    top: 36rem;
 }
 
 .andersonname {
     position: absolute;
     left: 35%;
-    top: 33.5rem;
+    top: 34.5rem;
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
@@ -175,14 +175,14 @@ figcaption {
 .blackep {
     position: absolute;
     left: 35%;
-    top: 46.5rem;
+    top: 50rem;
     margin: 5%, 0;
 }
 
 .blackename{
     position: absolute;
     left: 35%;
-    top: 45rem;
+    top: 48.5rem;
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
@@ -191,13 +191,13 @@ figcaption {
 .learnerp {
     position: absolute;
     left: 35%;
-    top: 58rem;
+    top: 64.5rem;
 }
 
 .learnername{
     position: absolute;
     left: 35%;
-    top: 56.5rem;
+    top: 63rem;
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792;
