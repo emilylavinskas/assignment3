@@ -50,7 +50,7 @@ header {
     background-color: #f9ddde;
 }
 
-.wing ring {
+.wing-ring {
     padding: 0;
 }
 
@@ -118,7 +118,7 @@ footer {
 }
 
 .store {
-    margin-top: 10%;
+    margin-top: 16%;
     margin-left: 10%;
     padding: 0;
     width: 80%;
@@ -207,36 +207,42 @@ figcaption {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792; 
+    margin: 0;
 }
 
 .products2 {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792; 
+    margin: 0;
 }
 
 .products3 {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792; 
+    margin: 0;
 }
 
 .products4 {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792; 
+    margin: 0;
 }
 
 .products5 {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
     color: #b07792; 
+    margin: 0;
 }
 
 .products6 {
     font-family: 'Playfair Display SC', georgia, times, serif;
     font-weight: bold;
-    color: #b07792; 
+    color: #b07792;
+    margin: 0;
 }
 
 .n1 {
