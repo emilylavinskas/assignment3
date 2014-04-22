@@ -395,9 +395,6 @@ figcaption {
     display: inline-block;
 }
 
-.andersone {
-    overflow: hidden;
-    margin: 0 0 1.5rem;
-    padding: 0;
-    background-color: red;
+.three {
+    background-image: url(../images/lnk9.jpg);
 }
