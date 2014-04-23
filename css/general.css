@@ -205,190 +205,26 @@ figcaption {
     text-decoration: underline;
 }
 
-.products1 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
+.products {
+    clear: both;
+}
+
+.products p {
+    font-family: 'Playfair Display SC', Georgia, Times, serif;
     font-weight: bold;
     color: #b07792; 
     background: #f9ddde;
     padding: 2rem;
 }
 
-.products2 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
-    font-weight: bold;
-    color: #b07792; 
-    background: #f9ddde;
-    margin: 2rem 0 0;
-    padding: 2rem;
-}
-
-.products3 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
-    font-weight: bold;
-    color: #b07792;
-    background: #f9ddde;
-    margin: 2rem 0 0;
-    padding: 2rem;
-}
-
-.products4 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
-    font-weight: bold;
-    color: #b07792;
-    background: #f9ddde;
-    margin: 2rem 0 0;
-    padding: 2rem;
-}
-
-.products5 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
-    font-weight: bold;
-    color: #b07792; 
-    background: #f9ddde;
-    margin: 2rem 0 0;
-    padding: 2rem;
-}
-
-.products6 {
-    font-family: 'Playfair Display SC', georgia, times, serif;
-    font-weight: bold;
-    color: #b07792;
-    background: #f9ddde;
-    margin: 2rem 0 0;
-    padding: 2rem;
-}
-
-.n1 {
+.products img {
     width: 30%;
+    margin: 0 5% 0 0;
+    float: left;
+}
+
+.products img:last-child {
     margin: 0;
-}
-
-.n2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 20.1rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.n3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 20.1rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.b1 {
-    width: 30%;
-}
-
-.b2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 34.9rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.b3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 34.9rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.c1 {
-    width: 30%;
-}
-
-.c2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 49.6rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.c3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 49.6rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.r1 {
-    width: 30%;
-}
-
-.r2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 64.4rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.r3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 64.4rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.e1 {
-    width: 30%;
-}
-
-.e2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 79.1rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.e3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 79.1rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.br1 {
-    width: 30%;
-}
-
-.br2 {
-    width: 30%;
-    position: absolute;
-    left: 27.5%;
-    top: 93.9rem;
-    margin: 2rem;
-    display: inline-block;
-}
-
-.br3 {
-    width: 30%;
-    position: absolute;
-    left: 62%;
-    top: 93.9rem;
-    margin: 2rem;
-    display: inline-block;
 }
 
 .necklaces {
